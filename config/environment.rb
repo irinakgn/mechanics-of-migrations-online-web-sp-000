@@ -10,3 +10,5 @@ Bundler.require
 
 
 require_relative "../artist.rb"
+
+
